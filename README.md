@@ -5,7 +5,8 @@
 <br/>
 
 ### I document digital security issues I find moving through life
-Find my work in [Flipper](https://github.com/Aves-Frog/Flipper)
+Find my work in [Red teammie](https://github.com/Aves-Frog/Red-teammie)
 
 - 🐬Currently toying around with the Flipper Zero
+- 📑Currently building a password dictionary
 
