@@ -1,4 +1,4 @@
-## Hi there, I'm Aves-Frog 🐸 <h6>_[She/her]_ 🏳️‍⚧️</h6> 
+## Hi there, I'm Aves-Frog 🐸 <h6>_[She/her]_</h6> 
 
 **_Data Scientist by day_ 🌞, _Security analyst and DFIR by night_ 🌜**
 
